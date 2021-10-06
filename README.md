@@ -12,4 +12,4 @@ model used can be found here https://spacy.io/models
 * Once the API is running locally on your system,send a post request through postman
 as shown in the screen shot below.
   
-![Alt text](example_through postman.png?raw=true "Test")
+![Alt text](https://github.com/gtechzilla/sentence_similarity_api/blob/main/example_through%20postman.png?raw=true "Test")
